@@ -13,7 +13,8 @@ Technical Skills
     • Machine Learning & Analytics: Tableau, Power BI
 
 
-Professional Experience
+Professional Experience -
+
 Data Engineer
 Cyber Billion AInnovations | March 2022– Present
     • Designed and implemented scalable data pipelines using Apache Spark and Airflow, processing terabytes of data daily.
