@@ -4,18 +4,29 @@ Results-driven Data Engineer with experience in designing, building, and optimiz
 
 Technical Skills
     • Programming: Python, SQL
+    
     • Big Data Technologies: Apache Spark, Hadoop, Kafka
+    
     • Databases: PostgreSQL, MySQL, MongoDB, Cassandra
+    
     • Cloud Platforms: AWS (Redshift, S3, Glue, Lambda)
+    
     • Data Warehousing: Snowflake, BigQuery, Redshift
+    
     • ETL & Data Pipelines: Airflow, Apache Nifi, dbt, Informatica
+    
     • Infrastructure & DevOps: Docker, Terraform
+    
     • Machine Learning & Analytics: Tableau, Power BI
+    
 
 
 Professional Experience
+
 Data Engineer
+
 Cyber Billion AInnovations | March 2022– Present
+
     • Designed and implemented scalable data pipelines using Apache Spark and Airflow, processing terabytes of data daily.
     • Optimized database performance by designing efficient indexing and partitioning strategies, reducing query execution time by 40%.
     • Developed and maintained ETL processes for integrating structured and unstructured data from various sources.
