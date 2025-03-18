@@ -30,9 +30,8 @@ Forage | Jan 2021 – December 2021
     • Created data visualizations in Tableau to help stakeholders make data-driven decisions.
 
 
-
 Education
-CyberTex Institute of Technology, Austin, Texas | Graduated: 2025
+CyberTex Institute of Technology, Austin, Texas, United States of America
 
 Certifications
     • CompTIA Security Analytics Professional 
