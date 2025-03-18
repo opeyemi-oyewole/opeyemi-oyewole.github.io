@@ -16,9 +16,7 @@ Technical Skills
 Professional Experience -
 
 Data Engineer
-
 Cyber Billion AInnovations | March 2022– Present
- 
     • Designed and implemented scalable data pipelines using Apache Spark and Airflow, processing terabytes of data daily.
     • Optimized database performance by designing efficient indexing and partitioning strategies, reducing query execution time by 40%.
     • Developed and maintained ETL processes for integrating structured and unstructured data from various sources.
@@ -27,9 +25,7 @@ Cyber Billion AInnovations | March 2022– Present
 
 
 Data Engineer Intern
-
 Forage | Jan 2021 – December 2021
- 
     • Assisted in the migration of on-premise data infrastructure to AWS, improving scalability and reducing costs by 30%.
     • Automated ETL processes using Python and Apache Nifi, reducing manual data processing efforts.
     • Created data visualizations in Tableau to help stakeholders make data-driven decisions.
