@@ -1,6 +1,6 @@
 Opeyemi Oyewole (Professional Summary)
 
-Results-driven Data Engineer with 4 years of experience in designing, building, and optimizing data pipelines and architectures. Proficient in big data technologies, cloud computing, and database management, with a strong focus on scalable and efficient data solutions. Adept at working with cross-functional teams to transform raw data into actionable insights that drive business value.
+Results-driven Data Engineer with experience in designing, building, and optimizing data pipelines and architectures. Proficient in big data technologies, cloud computing, and database management, with a strong focus on scalable and efficient data solutions. Adept at working with cross-functional teams to transform raw data into actionable insights that drive business value.
 
 Technical Skills
     • Programming: Python, SQL
